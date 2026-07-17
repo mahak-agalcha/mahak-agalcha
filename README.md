@@ -24,31 +24,31 @@
 
 💻 Languages
 
-- Python
-- SQL
+- 🐍 Python  
+- 🗄️ MySQL
 
 📊 Data Science
 
-- Pandas
-- NumPy
-- Matplotlib
-- Scikit-Learn
+- 📈 Pandas
+- 🔢 NumPy
+- 📊Matplotlib
+- 🤖 Scikit-Learn
 
 🌐 Development
 
-- Flask
-- HTML
-- CSS
-- JavaScript
+- 🌶️Flask
+- 🌐HTML
+- 🎨CSS
+- 🟨JavaScript
 
 🛠️ Tools
 
-- Git
-- GitHub
-- VS Code
-- Jupyter Notebook
-- MySQL
-- Power BI
+- 🌿 Git
+- 🐙GitHub
+- 💙VS Code
+- 📒Jupyter Notebook
+- 🐬MySQL
+- 📊 Power BI
 
 - ## 🚀 Projects
 
