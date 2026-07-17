@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=700&lines=Hi+👋,+I'm+Mahak+Agalcha;Python+Developer;Data+Science+Enthusiast;Machine+Learning+Learner;Open+to+Internship+Opportunities" alt="Typing SVG" />
+</p>
 # Hi 👋, I'm Mahak Agalcha
 
 ### Python Developer | Data Science & Machine Learning Enthusiast
