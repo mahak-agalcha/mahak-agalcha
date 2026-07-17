@@ -76,6 +76,6 @@ mahakagalcha5@gmail.com
 
 💼 LinkedIn
 
-https://www.linkedin.com/in/mahak-agalcha
+https://www.linkedin.com/in/mahak-agalcha-7185093bb 
 
 ⭐ Thanks for visiting my profile!
