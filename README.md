@@ -92,4 +92,9 @@ https://www.linkedin.com/in/mahak-agalcha-7185093bb
 
 ---
 
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mahak-agalcha/mahak-agalcha/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
 
